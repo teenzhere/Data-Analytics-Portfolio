@@ -1,4 +1,4 @@
-🍕 Pizza Sales Analytics
+#🍕 Pizza Sales Analytics
 
 Project Type: Data Analysis & Visualization
 Tools Used: SQL, Power BI, Excel
