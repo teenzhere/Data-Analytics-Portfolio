@@ -90,7 +90,7 @@ Provide actionable insights to inform strategic decisions, improve operations, a
 
 | # | Description | SQL | Result |
 |---|------------|-----|--------|
-| 1 | Total Revenue | [Query](queries/01_total_revenue.sql) | [Result](screenshots/01_total_revenue.png) |
+| 1 | Total Revenue | [Query](queries/01_total_revenue.sql) | [Result](SQLQueryResults/total_revenue.png) |
 
 
 7️⃣ **Sample Dashboard Screenshot**
