@@ -7,24 +7,17 @@
 
 1️⃣ **Problem Statement**
 
-A pizza company requires a robust and scalable data analytics solution to manage and analyze a large volume of sales data (approximately 50,000 combined records). The goal is to extract meaningful business insights related to:
-
+A pizza company requires a robust and scalable data analytics solution to manage and analyze a large volume of sales data. The goal is to extract meaningful business insights related to:
 Sales trends and order patterns
-
 Menu performance across pizza types and sizes
-
 Customer purchasing preferences
-
 Key business performance metrics
-
 Interactive dashboards are created to visualize daily and monthly sales trends, sales by pizza type and size, and top and bottom sellers. The objective is to enable data-driven decisions that improve operations, menu strategy, and profitability.
 
 2️⃣ **Dataset Source**
 
 Source: Dataset obtained from Kaggle Pizza Sales Dataset - https://www.kaggle.com/datasets/nextmillionaire/pizza-sales-dataset
-
 Contents: CSV files containing **pizza_id,order_id,pizza_name_id,quantity, order_date,order_time, unit_price,total_price, pizza_size, pizza_category, pizza_ingredients, pizza_name**
-
 Purpose: Used to analyze trends, order patterns, menu performance, and customer preferences
 
 3️⃣ **Key Performance Indicators (KPIs)**
@@ -55,7 +48,6 @@ Purpose: Used to analyze trends, order patterns, menu performance, and customer 
 
 5️⃣ **Step-by-Step Solution Plan**
 **Step 1: Data Collection**
-
 Load the CSV files containing order, pizza, and sales information into a SQL database or analysis environment.
 
 **Step 2: Data Cleaning & Processing (SQL)**
@@ -94,27 +86,12 @@ Uncover trends, customer preferences, and menu performance
 
 Provide actionable insights to inform strategic decisions, improve operations, and increase profitability
 
-6️⃣ **SQL Query Examples**
+6️⃣ **SQL Query**
 
-Total Revenue
+| # | Description | SQL | Result |
+|---|------------|-----|--------|
+| 1 | Total Revenue | [Query](queries/01_total_revenue.sql) | [Result](screenshots/01_total_revenue.png) |
 
-SELECT SUM(quantity * price) AS total_revenue
-FROM sales;
-
-
-Average Order Value
-
-SELECT SUM(quantity * price) / COUNT(DISTINCT order_id) AS avg_order_value
-FROM sales;
-
-
-Top 5 Best Sellers
-
-SELECT pizza_name, SUM(quantity) AS total_sold
-FROM sales
-GROUP BY pizza_name
-ORDER BY total_sold DESC
-LIMIT 5;
 
 7️⃣ **Sample Dashboard Screenshot**
 
