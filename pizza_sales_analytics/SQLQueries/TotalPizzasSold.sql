@@ -1,0 +1,1 @@
+select sum(quantity) AS Total_pizzas_sold from dbo.pizza_sales;

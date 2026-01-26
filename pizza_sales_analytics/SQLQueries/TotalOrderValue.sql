@@ -1,0 +1,1 @@
+select SUM(total_price)/Count(distinct order_id) AS Average_Order_Value from dbo.pizza_sales;
