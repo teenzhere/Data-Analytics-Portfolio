@@ -1,1 +1,0 @@
-select SUM(total_price) AS Total_revenue from dbo.pizza_sales;
