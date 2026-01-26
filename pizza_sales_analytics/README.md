@@ -90,7 +90,11 @@ Provide actionable insights to inform strategic decisions, improve operations, a
 
 | # | Description | SQL | Result |
 |---|------------|-----|--------|
-| 1 | Total Revenue | [Query](queries/01_total_revenue.sql) | [Result](SQLQueryResults/total_revenue.png) |
+| 1 | Total Revenue | [Query](SQLQueries/TotalRevenue.sql) | [Result](SQLQueryResults/total_revenue.png) |
+| 2 | Average Order Value | [Query](SQLQueries/01_total_revenue.sql) | [Result](SQLQueryResults/total_revenue.png) |
+| 3 | Total Pizzas Sold | [Query](SQLQueries/TotalPizzasSold.sql) | [Result](SQLQueryResults/total_revenue.png) |
+| 4 | Total Orders | [Query](SQLQueries/TotalOrderValue.sql) | [Result](SQLQueryResults/total_revenue.png) |
+| 5 | Average Pizzas per Order | [Query](SQLQueries/AveragePizzasperOrder.sql) | [Result](SQLQueryResults/total_revenue.png)|
 
 
 7️⃣ **Sample Dashboard Screenshot**
