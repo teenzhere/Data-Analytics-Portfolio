@@ -94,7 +94,15 @@ Provide actionable insights to inform strategic decisions, improve operations, a
 | 2 | Average Order Value | [Query](SQLQueries/01_total_revenue.sql) | [Result](SQLQueryResults/total_revenue.png) |
 | 3 | Total Pizzas Sold | [Query](SQLQueries/TotalPizzasSold.sql) | [Result](SQLQueryResults/total_revenue.png) |
 | 4 | Total Orders | [Query](SQLQueries/TotalOrderValue.sql) | [Result](SQLQueryResults/total_revenue.png) |
-| 5 | Average Pizzas per Order | [Query](SQLQueries/AveragePizzasperOrder.sql) | [Result](SQLQueryResults/total_revenue.png)|
+| 5 | Average Pizzas per Order | [Query](SQLQueries/AveragePizzasperOrder.sql) | [Result](SQLQueryResults/total_revenue.png) |
+| 6 | Daily Trend for Total Orders | [Query](SQLQueries/DailyTrend.sql) | [Result](SQLQueryResults/DailyTrendResult.png) |
+| 7 | Monthly Trend for Total Orders | [Query](SQLQueries/MonthlyTrend.sql) | [Result](SQLQueryResults/MonthlyTrendResult.png) |
+| 8 | Sales by Pizza Category | [Query](SQLQueries/SalesByCtgry.sql) | [Result](SQLQueryResults/SalesbyCatgryResult.png) |
+| 9 | Sales by Pizza Size | [Query](SQLQueries/SalesbySize.sql) | [Result](SQLQueryResults/SalesBySizeResult.png) |
+| 10 | Total Pizzas Sold by Category  | [Query](SQLQueries/TotPizzbyCtgry.sql) | [Result](SQLQueryResults/TotPizzByCtgry.png) |
+| 11 | Top 5 Best Pizzas by Revenue | [Query](SQLQueries/TotalRevenue.sql) | [Result](SQLQueryResults/Top5byRevenueResult.png) |
+| 12 | Top 5 Best Pizzas by Total Orders | [Query](SQLQueries/Top5pizzbyTotOrder.sql) | [Result](SQLQueryResults/Top5byTotOrders.png) |
+| 13 | Top 5 Best Pizzas by Quantity | [Query](SQLQuery/Top5PizzbyQty.sql) | [Result](SQLQueryResults/Top5byQtyResult.png) |
 
 
 7️⃣ **Sample Dashboard Screenshot**
