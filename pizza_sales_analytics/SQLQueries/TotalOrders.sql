@@ -1,0 +1,1 @@
+select count(Distinct order_id) as total_orders from dbo.pizza_sales;
