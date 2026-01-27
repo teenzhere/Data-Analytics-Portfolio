@@ -4,7 +4,7 @@ I work with SQL, R, Excel, and data visualization to explore patterns, organize 
 ## Portfolio Projects
 
   - [SQL and Power BI Projects](#sql_powerbi-projects)
-     - [pizza-store-sales-analytics](#pizza_sales_analytics/)
+     - [pizza-store-sales-analytics](pizza_sales_analytics/)
        
 ## Certificates
 - Google Data Analytics Certificate
