@@ -35,8 +35,15 @@ This project demonstrates **SQL data querying** skills for analysis and **Power 
 | 13 | Top 5 Best Pizzas by Quantity | [Query](SQLQuery/Top5PizzbyQty.sql) | [Result](SQLQueryResults/Top5byQtyResult.png) |
 
 ## Dashboard Preview
-![Dashboard Overview](images/dashboard_overview.png)
-![Insights Page](images/dashboard_insights.png)
+Screenshots from the interactive Power BI dashboard:
+
+### Home Page
+![Home Page](images/dashboard_home.png)  
+*Displays key performance indicators (KPIs), daily and monthly sales trends, and performance breakdowns by pizza category and size.*
+
+### Performance Page
+![Performance Page](images/dashboard_performance.png)  
+*Highlights top-selling pizzas by revenue, quantity sold, and total orders, providing detailed performance insights.*
 
 ## Interactive Dashboard
 Download and explore the dashboard in Power BI Desktop:  
