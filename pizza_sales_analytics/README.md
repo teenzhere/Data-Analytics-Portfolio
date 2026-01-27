@@ -49,5 +49,4 @@ Screenshots from the interactive Power BI dashboard:
 Download and explore the dashboard in Power BI Desktop:  
 [Pizza_Sales_Analysis.pbix](PQ_Pizza_sales.pbix)
 
-## Optional Demo
-Watch the interactive walkthrough: [demo.mp4](demo.mp4)
+
