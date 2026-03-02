@@ -33,12 +33,11 @@ Clean, transform, and explore raw data for analysis
 🔸68% of customers are male, highlighting the dominant subscriber demographic.<br>
 🔸58% of revenue comes from high-tier customers, showing the impact of top spenders.<br>
 🔸Young adults drive the majority of revenue, making them a key target segment.<br>
-🔸Discounts have little effect on purchase frequency, suggesting promotions may not boost repeat buying.<br>
 
 ## Dashboard Preview
 Screenshots from the interactive Power BI dashboard:<br>
+<img width="583" height="331" alt="cust_behvr_dashboard" src="https://github.com/user-attachments/assets/2d1dc98c-3d44-49cc-8e61-869901f93e01" />
 
-<img width="580" height="328" alt="cust_behvr_dashboard" src="https://github.com/user-attachments/assets/1a92a186-a615-41f2-aed6-7b82ac582fff" />
 
 ## 📄 Report & Presentation
 - Full project report: [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf)  
