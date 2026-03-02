@@ -25,9 +25,10 @@ Unlock customer insights to drive revenue growth through segment-level analysis 
 <img width="523" height="191" alt="workflow_screenshot" src="https://github.com/user-attachments/assets/dd8146ce-ce82-4993-88e5-678d7e6e6601" />
 
 ## Data Preparation & EDA
-Clean, transform, and explore raw data for analysis
+Cleaning, transforming and explore raw data for analysis is done using python.Detailed steps can be found in [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf)
 ## Data Analysis (SQL)
  Run business queries to uncover insights on customer segments, loyalty, and purchase drivers.
+ The  queries used for solving the business questions can be found in [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf) 
 
 ## 💡Key Insights
 🔸68% of customers are male, highlighting the dominant subscriber demographic.<br>
@@ -37,7 +38,6 @@ Clean, transform, and explore raw data for analysis
 ## Dashboard Preview
 Screenshots from the interactive Power BI dashboard:<br>
 <img width="583" height="331" alt="cust_behvr_dashboard" src="https://github.com/user-attachments/assets/2d1dc98c-3d44-49cc-8e61-869901f93e01" />
-
 
 ## 📄 Report & Presentation
 - Full project report: [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf)  
