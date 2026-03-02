@@ -13,10 +13,11 @@ This project demonstrates :<br>
 🔸Revenue varies by customer demographics, product category, and purchase frequency.<br>
 🔸Lack of segment-level insights limits marketing and growth strategies.<br>
 This analysis identifies key segments to guide better decisions.<br> 
-Detailed Business level document can be found in the file [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf) 
+Detailed Business level document can be viewed [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf) 
 
 ## Data Set
-3,900 transactions with 18 features covering customer demographics, purchase details, and shopping behavior. 26 missing values identified in the Review Rating column. 
+3,900 transactions with 18 features covering customer demographics, purchase details, and shopping behavior. 26 missing values identified in the Review Rating column. <br>
+Raw shopping dataset - [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf) 
 
 ## 🛠️ Tools & Technologies
 🔸Python 🔸Power BI  🔸SQL 🔸Excel
