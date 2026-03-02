@@ -39,6 +39,10 @@ Cleaning, transforming and explore raw data for analysis is done using python.De
 Screenshots from the interactive Power BI dashboard:<br>
 <img width="583" height="331" alt="cust_behvr_dashboard" src="https://github.com/user-attachments/assets/2d1dc98c-3d44-49cc-8e61-869901f93e01" />
 
+## Interactive Dashboard
+Download and explore the dashboard in Power BI Desktop:  
+[Pizza_Sales_Analysis.pbix](PQ_Pizza_sales.pbix)
+
 ## 📄 Report & Presentation
 - Full project report: [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf)  
 - Presentation slides: [Customer_Behavior_Presentation.pptx](docs/Customer_Behavior_Presentation.pptx)  
