@@ -5,6 +5,8 @@ I work with SQL, Excel,R, Pyton,and data visualization to explore patterns, orga
 
   - [SQL and Power BI Projects](#sql_powerbi-projects)
      - [pizza-store-sales-analytics](pizza_sales_analytics/)
+  - [Python , SQL and Power BI Projects](#sql_python_powerbi-projects)
+     - [customer-behavior-analysis](customer_behavior_analysis/)
        
 ## Certificates
 - Google Data Analytics Certificate
