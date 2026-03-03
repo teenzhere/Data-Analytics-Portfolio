@@ -26,7 +26,7 @@ Raw shopping dataset - [Customer Behavior Report.pdf](Customer_Behavior_Report.p
 <img width="523" height="191" alt="workflow_screenshot" src="https://github.com/user-attachments/assets/dd8146ce-ce82-4993-88e5-678d7e6e6601" />
 
 ## Data Preparation & EDA
-Cleaning, transforming and explore raw data for analysis is done using Python.Detailed steps can be found in [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf)
+Cleaning, transforming and explore raw data for analysis is done using Python.Detailed steps can be found in [shopping_cleaning.ipynb](shopping_cleaning.ipynb)
 
 ## Data Analysis (SQL)
  Run business queries to uncover insights on customer segments, loyalty, and purchase drivers.
@@ -46,6 +46,6 @@ Download and explore the dashboard in Power BI Desktop:
 [Customer Behavior Dashboard](CustomerbehaviorDashboard.pbix)
 
 ## 📄 Report & Presentation
-- Full project report: [Customer Behavior Report](Report_Customer Shopping Behavior Analysis.pdf)  
+- Full project report: [Customer Behavior Report](Report_Customer_Shopping_Behavior_Analysis.pdf)  
 - Presentation slides: [Customer Behavior Presentation.pptx](Customer-Shopping-Behavior-Analysis.pptx)  
 These documents summarize the methodology, analysis, and actionable recommendations.
