@@ -17,7 +17,7 @@ Detailed Business Problem document can be viewed [Business Problem Document.pdf]
 
 ## Data Set
 3,900 transactions with 18 features covering customer demographics, purchase details, and shopping behavior. 26 missing values identified in the Review Rating column. <br>
-Raw shopping dataset - [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf) 
+Raw shopping dataset - [Customer Behavior Report.pdf](Customer_Behavior_Report.pdf) 
 
 ## 🛠️ Tools & Technologies
 🔸Python 🔸Power BI  🔸SQL 🔸Excel
@@ -26,11 +26,11 @@ Raw shopping dataset - [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Rep
 <img width="523" height="191" alt="workflow_screenshot" src="https://github.com/user-attachments/assets/dd8146ce-ce82-4993-88e5-678d7e6e6601" />
 
 ## Data Preparation & EDA
-Cleaning, transforming and explore raw data for analysis is done using python.Detailed steps can be found in [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf)
+Cleaning, transforming and explore raw data for analysis is done using Python.Detailed steps can be found in [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf)
 
 ## Data Analysis (SQL)
  Run business queries to uncover insights on customer segments, loyalty, and purchase drivers.
- The  queries used for solving the business questions can be found in [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf) 
+ The  queries used for solving the business questions can be found in [SQLQueries](SQLQueries.sql) 
 
 ## 💡Key Insights
 🔸68% of customers are male, highlighting the dominant subscriber demographic.<br>
@@ -43,9 +43,9 @@ Screenshots from the interactive Power BI dashboard:<br>
 
 ## Interactive Dashboard
 Download and explore the dashboard in Power BI Desktop:  
-[Pizza_Sales_Analysis.pbix](PQ_Pizza_sales.pbix)
+[Customer Behavior Dashboard](CustomerbehaviorDashboard.pbix)
 
 ## 📄 Report & Presentation
-- Full project report: [Customer_Behavior_Report.pdf](docs/Customer_Behavior_Report.pdf)  
-- Presentation slides: [Customer_Behavior_Presentation.pptx](docs/Customer_Behavior_Presentation.pptx)  
+- Full project report: [Customer Behavior Report](Report_Customer Shopping Behavior Analysis.pdf)  
+- Presentation slides: [Customer Behavior Presentation.pptx](Customer-Shopping-Behavior-Analysis.pptx)  
 These documents summarize the methodology, analysis, and actionable recommendations.
